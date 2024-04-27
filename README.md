@@ -4,7 +4,7 @@ Rock Paper Scissors game
 - Html5
 - Css3 
 - JavaScript
-- Can you view my [project](https://toshpulatovalimardon.github.io/Rock-Paper-Scissors-game/)
+- Can you view my [project](https://sultonovbaxtiyor.github.io/animation/)
 
 # Author 
-(2023) Toshpo'latov Alimardon
+(2024) Sultonov Baxtiyor
